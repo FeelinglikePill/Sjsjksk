@@ -1,9 +1,9 @@
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-Title = "Quality x",
+Title = "Mystic",
 Icon = "gamepad-2",
-Author = "Quality-Team"
+Author = "Mystic-Team"
 })
 
 Window:EditOpenButton({
